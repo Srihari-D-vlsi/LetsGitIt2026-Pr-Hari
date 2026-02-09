@@ -8,6 +8,8 @@ const reviewsCollection = defineCollection({
     review: z.string(),
     socialLink: z.string().url().optional(),
     image: image().optional(),
+    // Allow participants to specify a background color for their card
+    color: z.string().regex(/^#[0-9a-fA-F]{6}$/).optional(),
   }),
 });
 

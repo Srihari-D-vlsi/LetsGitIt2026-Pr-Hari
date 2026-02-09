@@ -17,7 +17,7 @@ export const BrutalistButton: React.FC<BrutalistButtonProps> = ({
 
   const variantStyles = {
     primary: "bg-[var(--accent)] text-black shadow-[var(--shadow-hard)] hover:shadow-[8px_8px_0px_0px_black]",
-    secondary: "bg-[var(--secondary)] text-white shadow-[var(--shadow-hard)] hover:shadow-[8px_8px_0px_0px_black]"
+    secondary: "bg-[var(--secondary)] text-black shadow-[var(--shadow-hard)] hover:shadow-[8px_8px_0px_0px_black]"
   };
 
   if (href) {
