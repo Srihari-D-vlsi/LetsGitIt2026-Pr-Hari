@@ -12,7 +12,7 @@ Click the **Fork** button on [https://github.com/FossMec/LetsGitIt2026-Pr](https
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/LetsGitIt2026-Pr
-cd lets-git-it
+cd LetsGitIt2026-Pr
 ```
 
 ### 3. Create Your Review File
@@ -63,4 +63,4 @@ We will review and merge your PR
 
 ### 8. See Your Card
 
-Visit the website to see your review card live
+[Visit](https://lets-git-it-2026.onrender.com) the website to see your review card live
